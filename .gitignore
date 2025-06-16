@@ -1,0 +1,11 @@
+venv
+.venv
+dataset/emetophobia_pages
+!dataset/emetophobia_pages/README.md
+plan.txt
+test.ipynb
+requirements*
+!requirements.txt
+dataset
+ner
+sentiments
