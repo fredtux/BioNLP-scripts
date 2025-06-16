@@ -1,11 +1,12 @@
 venv
 .venv
-dataset/emetophobia_pages
-!dataset/emetophobia_pages/README.md
 plan.txt
 test.ipynb
 requirements*
 !requirements.txt
-dataset
 ner
 sentiments
+dataset/biobert_split
+dataset/emetophobia_pages
+dataset/emetophobia_posts
+dataset/scispacy_split
